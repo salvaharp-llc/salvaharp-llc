@@ -9,6 +9,7 @@ I am currently looking for a new full-time role in the software industry! If you
 **What I'm currently up to:**
 * 📚 Deepening my backend skills through Boot.dev — you can track my progress and see what I'm learning on [salvaharp-llc](https://www.boot.dev/u/salvaharp-llc).
 * 🔭 Planning and architecting my next backend portfolio project.
+* 📖 Reading: [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 **Let's connect:**
 * [LinkedIn](https://www.linkedin.com/in/salvador-llc/)
