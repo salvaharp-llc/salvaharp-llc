@@ -1,6 +1,6 @@
 ## Hi there, I'm Salva 👋
 
-I am finishing my Master's in Telecommunication Engineering (specializing in Software & ML/AI) and making a full transition into backend engineering. I enjoy the architectural side of software and write backend systems using **Python** and **Go**. 
+I am finishing my Master's in Telecommunication Engineering (specializing in Software & AI) and making a full transition into backend engineering. I enjoy the architectural side of software and write backend systems using **Python** and **Go**. 
 
 Coming from a telecom background, I have a deep appreciation for how networks operate under the hood, which drew me to backend development.
 
