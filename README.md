@@ -1,15 +1,11 @@
 ## Hi there, I'm Salva 👋
 
-I am finishing my Master's in Telecommunication Engineering (specializing in Software & AI) and making a full transition into backend engineering. I enjoy the architectural side of software and write backend systems using **Python** and **Go**. 
+I am a final-year Master's student in Telecommunication Engineering, specializing in Software and AI with a strong foundation in Digital Signal Processing and Acoustics.
 
-Coming from a telecom background, I have a deep appreciation for how networks operate under the hood, which drew me to backend development.
-
-I am currently looking for a new full-time role in the software industry! If you know of any teams looking for a dedicated backend engineer with a strong foundation in both software and AI, please reach out.
+My background spans the entire stack—from electronics and signal processing to advanced networking—giving me a unique "under the hood" perspective on how complex systems operate.
 
 **What I'm currently up to:**
 * 📚 Deepening my backend skills through Boot.dev — you can track my progress and see what I'm learning on [salvaharp-llc](https://www.boot.dev/u/salvaharp-llc).
-* 🔭 Planning and architecting my next backend portfolio project.
-* 📖 Reading: [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 **Let's connect:**
 * [LinkedIn](https://www.linkedin.com/in/salvador-llc/)
